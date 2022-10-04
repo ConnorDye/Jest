@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorDye/Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorDye/Jest/issues"
+  },
+  "homepage": "https://github.com/ConnorDye/Jest#readme",
+  "dependencies": {
+    "jest": "^29.1.2"
+  }
+}
